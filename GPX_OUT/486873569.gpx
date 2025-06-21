@@ -1,0 +1,79 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>470.0</distance>
+<average_hr></average_hr>
+<average_speed>2.2169811320754715</average_speed>
+<start_time>2016-06-29T22:03:03+00:00</start_time>
+<end_time>2016-06-29T22:06:35+00:00</end_time>
+<moving_time>196.0</moving_time>
+<elapsed_time>212.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2016-06-29T22:03:03.000Z</time>
+  </metadata>
+  <trk>
+    <name>台州市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="28.36535199545323848724365234375" lon="121.36230499483644962310791015625">
+        <ele>13.19999980926513671875</ele>
+        <time>2016-06-29T22:03:10.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.365619964897632598876953125" lon="121.3627479784190654754638671875">
+        <ele>12.6000003814697265625</ele>
+        <time>2016-06-29T22:03:40.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.365621976554393768310546875" lon="121.36285400949418544769287109375">
+        <ele>12.6000003814697265625</ele>
+        <time>2016-06-29T22:03:48.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.36609396152198314666748046875" lon="121.36348298750817775726318359375">
+        <ele>11.6000003814697265625</ele>
+        <time>2016-06-29T22:04:32.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.36615900509059429168701171875" lon="121.3635630346834659576416015625">
+        <ele>12.19999980926513671875</ele>
+        <time>2016-06-29T22:04:42.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.36543195880949497222900390625" lon="121.3623449765145778656005859375">
+        <ele>12.80000019073486328125</ele>
+        <time>2016-06-29T22:06:13.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.365345038473606109619140625" lon="121.3622849620878696441650390625">
+        <ele>13.3999996185302734375</ele>
+        <time>2016-06-29T22:06:20.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.365279994904994964599609375" lon="121.362199969589710235595703125">
+        <ele>13.6000003814697265625</ele>
+        <time>2016-06-29T22:06:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
