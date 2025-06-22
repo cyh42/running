@@ -149,10 +149,10 @@ const ActivityCard: React.FC<ActivityCardProps> = ({
               <strong>{ACTIVITY_TOTAL.MAX_DISTANCE_TITLE}:</strong>{' '}
               {summary.maxDistance.toFixed(2)} km
             </p>
-            /* <p>
-              <strong>{ACTIVITY_TOTAL.MAX_SPEED_TITLE}:</strong>{' '}
-              {formatPace(summary.maxSpeed)}
-            </p> */
+            // <p>
+              // <strong>{ACTIVITY_TOTAL.MAX_SPEED_TITLE}:</strong>{' '}
+              // {formatPace(summary.maxSpeed)}
+            // </p>
           </>
         )}
         {['month', 'week', 'year'].includes(interval) && (
