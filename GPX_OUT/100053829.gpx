@@ -1,0 +1,113 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>215.0</distance>
+<average_hr></average_hr>
+<average_speed>6.142857142857143</average_speed>
+<start_time>2020-07-08T13:10:45+00:00</start_time>
+<end_time>2020-07-08T13:11:20+00:00</end_time>
+<moving_time>22.0</moving_time>
+<elapsed_time>35.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2020-07-08T13:10:45.000Z</time>
+  </metadata>
+  <trk>
+    <name>台州市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="28.37020897306501865386962890625" lon="121.3797759823501110076904296875">
+        <ele>4.599999904632568359375</ele>
+        <time>2020-07-08T13:10:57.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>20</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37024702690541744232177734375" lon="121.37981495819985866546630859375">
+        <ele>5.19999980926513671875</ele>
+        <time>2020-07-08T13:10:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>20</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37028801441192626953125" lon="121.37984898872673511505126953125">
+        <ele>5.599999904632568359375</ele>
+        <time>2020-07-08T13:10:59.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>24</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37033302523195743560791015625" lon="121.37987698428332805633544921875">
+        <ele>6.19999980926513671875</ele>
+        <time>2020-07-08T13:11:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>24</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37067500688135623931884765625" lon="121.3798309676349163055419921875">
+        <ele>7.599999904632568359375</ele>
+        <time>2020-07-08T13:11:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>33</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37072496302425861358642578125" lon="121.3798110187053680419921875">
+        <ele>7.400000095367431640625</ele>
+        <time>2020-07-08T13:11:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>37</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.3709439821541309356689453125" lon="121.37973097153007984161376953125">
+        <ele>6.80000019073486328125</ele>
+        <time>2020-07-08T13:11:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>42</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.3712909929454326629638671875" lon="121.3796680234372615814208984375">
+        <ele>6.80000019073486328125</ele>
+        <time>2020-07-08T13:11:17.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>55</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37134103290736675262451171875" lon="121.37964899651706218719482421875">
+        <ele>6.80000019073486328125</ele>
+        <time>2020-07-08T13:11:18.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>55</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.37139098905026912689208984375" lon="121.379630975425243377685546875">
+        <ele>7</ele>
+        <time>2020-07-08T13:11:19.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:cad>55</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

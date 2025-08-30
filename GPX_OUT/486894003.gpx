@@ -1,0 +1,72 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>3695.0</distance>
+<average_hr></average_hr>
+<average_speed>1.7106481481481484</average_speed>
+<start_time>2016-09-25T04:18:00+00:00</start_time>
+<end_time>2016-09-25T04:54:00+00:00</end_time>
+<moving_time>1260.0</moving_time>
+<elapsed_time>2160.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2016-09-25T04:18:00.000Z</time>
+  </metadata>
+  <trk>
+    <name>青岛市 跑步</name>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="35.9440280310809612274169921875" lon="120.1643440313637256622314453125">
+        <ele>3</ele>
+        <time>2016-09-25T04:19:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.9411409683525562286376953125" lon="120.16244896687567234039306640625">
+        <ele>10.80000019073486328125</ele>
+        <time>2016-09-25T04:27:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.939912013709545135498046875" lon="120.1628979854285717010498046875">
+        <ele>23.6000003814697265625</ele>
+        <time>2016-09-25T04:30:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.940722040832042694091796875" lon="120.16265801154077053070068359375">
+        <ele>13</ele>
+        <time>2016-09-25T04:34:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.93951898626983165740966796875" lon="120.16313896514475345611572265625">
+        <ele>25.200000762939453125</ele>
+        <time>2016-09-25T04:40:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.93897600658237934112548828125" lon="120.16285900957882404327392578125">
+        <ele>36.59999847412109375</ele>
+        <time>2016-09-25T04:45:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="35.9393920004367828369140625" lon="120.16311096958816051483154296875">
+        <ele>27.6000003814697265625</ele>
+        <time>2016-09-25T04:49:00.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
